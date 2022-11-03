@@ -1,0 +1,49 @@
+.highlight{
+    color: orange;
+    font-weight: 700;
+    font-size: 50px;
+}
+.navbar-brand{
+    font-size: 50px;
+    font-weight: 700;
+
+}
+.xon{
+    background-color:#95a5a6;
+    padding: 150px;
+}
+.high{
+    color: orange;
+}
+.content h2{
+    font-weight: 700;
+    font-size: 50px;
+    color:#dddd;
+}
+.content-section img{
+    max-width: 100%;
+}
+.content-section h2{
+    font-size: 50PX;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font: weight 700px;;
+}
+.content-section{
+    padding: 50px;
+}
+
+.img-sec{
+    border-radius: 10px;
+}
+.d-tezt h2{
+    font-size: 50px;
+    font-smoothing: antialiased;
+    font-weight: 700;
+}
+.img-div img{
+    max-width: 100%;
+    border-radius: 10px;
+}
+.anonther-div{
+    padding: 50px;
+}
